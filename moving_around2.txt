@@ -1,0 +1,92 @@
+git status
+git add unix_notes -m 'more notes'
+ll
+git add -m 'more notes'
+git commit -m ' add more noteds'
+git log
+git add -m'new notes'
+git add .
+git add 'add git notes on this file'
+la
+git ll 
+git commit -m ' add git notes '
+ls
+git st
+git add unix_notes
+git init
+cd uge_workshop/
+pwd
+mv uge_workshop/moving_around.txt  uge_workshop/unix_notes
+ll uge_workshop/
+mv moving_around.txt uge_workshop/
+mkdir uge_workshop
+ls moving_around.txt 
+~
+cat test_file_codefellows > moving_around.txt 
+test_file_codefellows > moving_around.txt 
+cat moving_around.txt 
+history > moving_around.txt
+history | less
+history 
+ls -L
+cd iTunes/
+cd Music/
+cd /Users/paulcalabrese/
+cd pwd
+cd Desktop/
+LS
+cd 
+cd Users/paulcalabrese 
+ls -U
+man ls
+ls -S
+ls -s
+ls s
+ls S
+ls Q
+ls man
+ls -rl
+ls -r
+ls l-r
+ls r
+ls -lt
+ls -l
+-l
+ls -t
+ls-t
+cd
+git config -l
+git config --global user.email pacalabre@gmail.com
+git config --global user.name Paul Calabrese
+git --version
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+echo $SHELL
+echo $shell
+echo $sh
+ls -G
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name 'YOUR FULL NAME'
+brew install git
+subl /etc/paths
+set -gx EDITOR 'subl -w'
+# Sublime Text
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+brew in 
+fish_update_completions
+curl -fsSL http://git.io/FzAR | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew update
+brew doctor
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+brew install wget
+ brew update
+/Users/paulcalabrese 
+uname
+tar -zxvf radioheadbonnotforprofit.tar 
+tar -zxvf radioheadbonnotforprofit.tar.gz 
